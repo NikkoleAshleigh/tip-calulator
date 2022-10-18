@@ -6,7 +6,6 @@
 Program in python3 that calculates a tip with the total bill. 
 Once completed The user may enter in a second tip amount.
 
-______________________________________
 
 ## How it works
 
@@ -17,6 +16,6 @@ In the terminal run: ``python project_tip_calculator.py``
 - User then enters whether they wish to add another tip or not
     - If yes, the program will then re-calculate the bill with the new tip added
     - If not, the previous total amount will be printed again
-______________________________________
+
 
 
